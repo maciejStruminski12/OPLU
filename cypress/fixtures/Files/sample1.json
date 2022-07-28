@@ -1,0 +1,8 @@
+{
+  "witnesses":["C","D"],
+  "table":[
+    [ [ {"t":"Lo ","ref":123 } , {"t":"rem","ref":123 }], [ {"t":"Lo " }, {"t":"rum" } ] ],
+    [ [ {"t":"ipsum","adj":true } ], [ {"t":"ipsum","adj":true } ] ],
+    [ [ {"t":"dolor","id":"xyz" } ], [] ]
+  ]
+}
